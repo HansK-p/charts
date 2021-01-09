@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   triggered-rollout-restart-operator:
   - apiVersion: v2
+    appVersion: 0.0.2
+    created: "2021-01-09T14:59:56.195845544+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 9b1a2af3ed64457c36eea11e22042f70e6e5a2307e6a26aaf3772acbbd6f6f1b
+    name: triggered-rollout-restart-operator
+    type: application
+    urls:
+    - triggered-rollout-restart-operator-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v2
     appVersion: 0.0.1
-    created: "2020-06-22T18:47:35.689946174+02:00"
+    created: "2021-01-09T14:59:56.194893371+01:00"
     description: A Helm chart for Kubernetes
     digest: 731c2a00c978a309a1d2ac0641d5183495b310fedacb7daf7373fec2b94193c3
     name: triggered-rollout-restart-operator
@@ -11,4 +21,4 @@ entries:
     urls:
     - triggered-rollout-restart-operator-0.0.2.tgz
     version: 0.0.2
-generated: "2020-06-22T18:47:35.686827251+02:00"
+generated: "2021-01-09T14:59:56.1942994+01:00"
